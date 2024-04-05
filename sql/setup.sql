@@ -1,4 +1,5 @@
 drop table if exists affinity;
+drop table if exists users;
 
 -- creazione tabella Users
 create table users (
