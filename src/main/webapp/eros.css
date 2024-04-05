@@ -1,6 +1,5 @@
 body {
-    background-image:url("/public/img/eros-cover.jpg");
+    background-image:url("/eros/img/eros-cover.jpg");
     background-repeat: no-repeat;
     background-size:cover;
-    
 }
