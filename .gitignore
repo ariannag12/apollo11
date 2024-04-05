@@ -1,2 +1,6 @@
 /.project
 /.dbeaver
+/target/
+/.settings/
+/bin/
+/.classpath
